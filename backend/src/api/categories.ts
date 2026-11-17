@@ -1,6 +1,7 @@
 import { Router, Request, Response } from "express";
 import { prisma } from "../db.js";
-
+// PR raised 
+git status
 const router = Router();
 
 // GET /api/categories
