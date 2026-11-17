@@ -1,4 +1,9 @@
-# Quick News — Complete News Aggregation Platform & Studio
+
+
+sdfgds
+sdfgsd
+fg
+sdfg# Quick News — Complete News Aggregation Platform & Studio
 
 > **Tagline:** *Stay informed. Stay ahead.*  
 > **Studio Integration:** *Interfaces for a world shared with machines*
